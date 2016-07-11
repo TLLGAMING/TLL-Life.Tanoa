@@ -1,0 +1,1 @@
+{this call cms_fnc_AirwayExamine; hint 'test';}

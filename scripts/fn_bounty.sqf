@@ -1,0 +1,1 @@
+if(!((player distance (getMarkerPos "police_hq_1") < 40) OR  (player distance (getMarkerPos "bounty_hunter") < 40) OR  (player distance (getMarkerPos "police_hq_2") < 40) OR (player distance (getMarkerPos "cop_spawn_4") < 40) OR (player distance (getMarkerPos "cop_spawn_3") < 40) OR (player distance (getMarkerPos "cop_spawn_5") < 40))) then 
